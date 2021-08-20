@@ -4,11 +4,11 @@ The main .R file to explore the simulation with is FairyMushroomExplorer.R. This
 
 Enclosed are also several .R files for those different scenarios:
 
-CSE616_MushroomProject_ObstructionModel.R - simulates growth of fungi around obstacles
+*Mushroom Project ObstructionModel* - simulates growth of fungi around obstacles
 
-MGG_modified_neighborhood.R - modifies probability for spreading diagonally, to obtain more circular growth patterns
+*MGG modified neighborhood* - modifies probability for spreading diagonally, to obtain more circular growth patterns
 
-mushroomProbabilisticDeath.R - makes death time probabilistic with an adjustable rate
+*Mushroom Probabilistic Death* - makes death time probabilistic with an adjustable rate
 
-TwoMushroomSpecies.R - simulates two separate species growing in the same region
+*Two Mushroom Species* - simulates two separate species growing in the same region
 
