@@ -12,3 +12,4 @@ Enclosed are also several .R files for those different scenarios:
 
 *Two Mushroom Species* - simulates two separate species growing in the same region
 
+Co-creaters: Chris Goralka, Michael Larson, Jayson Rook, and Jacob Veta
