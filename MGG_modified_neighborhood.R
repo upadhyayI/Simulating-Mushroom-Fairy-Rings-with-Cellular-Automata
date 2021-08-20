@@ -1,7 +1,3 @@
-# MGG_modified_neighborhood.R - models a ring spreading from a single spore with high probSpread,
-# using a neighborhood mixing Moore and Von Neumann to result in more circular rings
-#
-# modified 4/19/20
 
 library(plotrix)
 library(tidyverse)
