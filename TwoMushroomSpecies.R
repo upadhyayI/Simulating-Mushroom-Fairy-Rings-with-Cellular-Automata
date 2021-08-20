@@ -1,17 +1,4 @@
-# mushroom_test1.R - quick initial implementation of the fairy ring cellular automaton
 
-# Jayson Rook
-#
-# Forked by Jacob Veta
-# March 9, 2020
-#
-# Changes:
-#  - converted matrices to single time series array and applied gganimate
-#  - converted if/else structure to case_when structure for speed
-# 
-#
-#
-# Using plotrix for now, needs replaced badly (but can use install.packages( "plotrix" ) to use for now)
 library(plotrix)
 library(tidyverse)
 library(abind)
