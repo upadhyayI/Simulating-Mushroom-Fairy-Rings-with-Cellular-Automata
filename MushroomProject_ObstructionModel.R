@@ -1,28 +1,15 @@
-# Michael Larson
-# CSE616 Simulation of Physical Systems
-# Mushroom Cellular Automota Code -- Obstructions to Growth
 
-# Jayson Rook
-#
-# Forked by Jacob Veta
-#
-# Changes:
-#  - converted matrices to single time series array and applied gganimate
-#  - converted if/else structure to case_when structure for speed
-
-# Using plotrix for now, needs replaced badly (but can use install.packages( "plotrix" ) to use for now)
 library(plotrix)
 library(tidyverse)
 library(abind)
 
-## Tunable probability parameters #find research and convert to 2d matrix for comparison  
+  
 probSporeToHyphae = 0.30     #affects spore to young Hyphae
 probMushroom = 0.70          #affects maturing Hyphae to mushroom
 probSpread = 0.825           #affects empty to young
 probSpore = 0.2              #for random initialization
 iter = 65
 
-## Graphics Parameters
 
 speed = 0.50  #GIF output transition interval
 n = 65  # Side length for square grid
