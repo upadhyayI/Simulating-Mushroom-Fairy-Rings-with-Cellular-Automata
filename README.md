@@ -1,1 +1,1 @@
-# Simulating-Mushroom-Fairy-Rings-with-Cellular-Automata
+# Simulating Mushroom Fairy Rings with Cellular Automata
