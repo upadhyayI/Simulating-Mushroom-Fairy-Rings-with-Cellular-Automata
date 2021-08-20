@@ -1,15 +1,8 @@
-# CSE616 Simulation of Physical Systems
-# Mushroom Cellular Automota Code -- Probabilistic Death
-# Indrima Upadhyay
-# Jayson Rook
-# Forked by Jacob Veta
-#
-#
+
 library(plotrix)
 library(tidyverse)
 library(abind)
-
-## Tunable probability parameters #find research and convert to 2d matrix for comparison  
+  
 probSporeToHyphae = 0.3
 probMushroom = 0.7
 probSpread = 0.9
